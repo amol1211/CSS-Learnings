@@ -1,0 +1,4 @@
+1. Create a div bar with text and background color with opacity
+2. Change the color of the main content
+3. Add background image to one div
+4. Use background shorthand property
