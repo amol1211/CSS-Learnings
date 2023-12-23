@@ -1,0 +1,8 @@
+1. Create a Heading at the centre and make it capitalized.
+2. Use Font Family for the whole page to TimeNewRoman
+3. Create one div inside another div.
+Set id and text outer to outer div,
+Set id and text inner to inner div.
+Set outer div text size to 25px.
+Set inner to 10px.
+4. Use icons from fontawesome.com and use icons of LinkedIn and Github
