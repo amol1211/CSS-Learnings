@@ -1,0 +1,11 @@
+Practice Set on Display and Position
+
+1. Create a webpage with header, footer, and a content area.
+2. Header- Create a nav bar with links.
+3. Main- Create a div with width and height, Background green and border 
+ radius 50%.
+4. Create Three divs with container height and width 100px. Display inline block.
+5. Set the correct position property for the single div element to ensure it remains at the right side of the page and does not shift when scrolling.
+6. Use z-index to place the div on top of another div.
+7. Footer - Add text in footer
+
