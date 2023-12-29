@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- <title>Pseudo Classes</title>
+    <style>
+      .pseudo {
+        height: 25px;
+        width: 150px;
+        background-color: forestgreen;
+        border: 2px solid black;
+        border-radius: 10px;
+
+        /* transition-property: all;
+        transition-duration: 1s;
+        transition-timing-function: ease-in-out;   steps(3); 
+        transition-delay: 0s; */
+
+        transition: all 1s ease-in-out 0s;
+      }
+      .pseudo:hover {
+        background-color: lightcoral;
+        height: 30px;
+        width: 160px;
+      }
+      .pseudo:active {
+        height: 30px;
+        width: 160px;
+        background-color: red;
+      }
+    </style> -->
+    <title>CSS Transform</title>
+    <style>
+      .box {
+        height: 50px;
+        width: 50px;
+        border: 2px solid black;
+        border-radius: 5px;
+        background-color: plum;
+        position: relative;
+        top: 50px;
+        left: 50px;
+        transition: all 0.5s ease-in;
+      }
+      .box:hover {
+        transform:  /* rotate(45deg ) /* rotatex(45deg); */ /* rotatey(45deg); */
+        /* rotatez(45deg); */
+        /* scale(2); */
+        /* translate(50px); */ /* translate(50px,50px); */ skew(
+          45deg
+        );
+      }
+    </style>
+  </head>
+  <body>
+    <!-- <button class="pseudo">Learning Pseudo</button> -->
+    <div class="box">Rotate</div>
+  </body>
+</html>
